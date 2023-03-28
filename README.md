@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yeahjack
 - 👀 My research interest lies in Artificial Intelligence and Machine Learning
-- 🧐 I do have broad interest in Web Crawlers, Automation Tools, etc...
+- 🧐 I also have broad interest in Web Crawlers, Automation Tools, etc...
 - 🌱 I hold a B.Sc. in Mathematics.
 - 📫 You can reach me by [e-mail](mailto:yxu409@connect.hkust-gz.edu.cn).
 
