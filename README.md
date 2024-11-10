@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @yeahjack;
-- 👀 My research interest lies in Responsible and Trustworthy Large Language Models with Applications;
+- 👋 Hi, I’m @yeahjack; I am currently a Ph.D. student in Artificial Intelligence @ HKUST (Guangzhou)!
+- 👀 My research interest lies in Responsible and Trustworthy Large Language Models;
 - 🧐 I also have broad interests in Web Crawlers, Automation Tools, etc...
-- 🌱 I hold a B.Sc. in Mathematics, and am currently an M.Phil. student in AI;
+- 🌱 I hold a B.Sc. in Mathematics, and an M.Phil. in AI;
 - 📫 You can reach me by [e-mail](mailto:yxu409@connect.hkust-gz.edu.cn).
 
 ## Github Stats  
