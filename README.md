@@ -25,8 +25,8 @@ I am open to **industry research opportunities in LLM post-training and related 
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yeahjack&show_icons=true&count_private=true&hide_border=true&theme=transparent" />
-  <img height="170" src="https://streak-stats.demolab.com?user=yeahjack&hide_border=true&theme=transparent" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yeahjack&show_icons=true&count_private=true&hide_border=true&theme=transparent" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=yeahjack&hide_border=true&theme=transparent" />
 </p>
 
 <p align="center">
