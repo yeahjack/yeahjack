@@ -1,31 +1,46 @@
-- 👋 Hi, I’m @yeahjack; I am currently a Ph.D. student in Artificial Intelligence @ HKUST (Guangzhou)!
-- 👀 My research interest lies in Responsible and Trustworthy Large Language Models;
-- 🧐 I also have broad interests in Web Crawlers, Automation Tools, etc...
-- 🌱 I hold a B.Sc. in Mathematics, and an M.Phil. in AI;
-- 📫 You can reach me by [e-mail](mailto:yxu409@connect.hkust-gz.edu.cn).
+# Hi, I'm Yijie Xu 👋
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+I am a **Ph.D. Candidate in Artificial Intelligence** at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), advised by **Prof. Hui Xiong**.
 
-<img src="https://github-readme-stats.vercel.app/api?username=yeahjack&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+I am currently a **Research Intern at Tencent**, working on **generative retrieval**.
 
-</td><td valign="top" width="50%">
+My research studies how language models **acquire and leverage information to adapt and make decisions**, with a particular focus on:
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeahjack&hide_border=true&layout=compact" align="left" style="width: 100%" />
+- 🔄 **Test-time Self-Evolution**
+- 🔎 **Generative Retrieval**
+- 📚 **Retrieval-Augmented Generation**
+- 🧠 **LLM Post-Training and Adaptation**
 
-</td></tr></table>  
+For publications and more details, please visit my [homepage](https://yjx.me/) or [Google Scholar](https://scholar.google.com/citations?user=hBZs76kAAAAJ).
 
-<br/>  
+[**Homepage**](https://yjx.me/) ·
+[**Google Scholar**](https://scholar.google.com/citations?user=hBZs76kAAAAJ) ·
+[**CV**](https://yjx.me/cv/) ·
+[**Email**](mailto:yxu409@connect.hkust-gz.edu.cn)
 
-  
+I am open to **industry research opportunities in LLM post-training and related areas**.
 
-<br/>  
+---
 
-![Profile views counter](https://komarev.com/ghpvc/?username=yeahjack&&style=flat-square)
-  
+## GitHub Stats
 
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yeahjack&show_icons=true&count_private=true&hide_border=true&theme=transparent" />
+  <img height="170" src="https://streak-stats.demolab.com?user=yeahjack&hide_border=true&theme=transparent" />
+</p>
 
-<!---
-yeahjack/yeahjack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img width="100%" src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution calendar" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yeahjack/yeahjack/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yeahjack/yeahjack/output/github-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/yeahjack/yeahjack/output/github-snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yeahjack&style=flat-square" alt="Profile views" />
+</p>
