@@ -30,7 +30,11 @@ I am open to **industry research opportunities in LLM post-training and related 
 </p>
 
 <p align="center">
-  <img width="100%" src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution calendar" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
+    <img width="82%" src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution calendar" />
+  </picture>
 </p>
 
 <p align="center">
